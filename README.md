@@ -1,10 +1,15 @@
 ## Tech-Driven Solutions for Undertrial Prisoners in India
-## Ministry: Ministry of Law and Justice
-## Problem Statement Code: SIH1282
-## Problem Statement Title: Tech-Driven Solutions for Undertrial Prisoners in India
-## Team Name: CodeFellasVI
-## Institute Code (AISHE): C-33681
-## Institute Name: Thadomal Shahani Engineering College
+Ministry: Ministry of Law and Justice
+
+Problem Statement Code: SIH1282
+
+Problem Statement Title: Tech-Driven Solutions for Undertrial Prisoners in India
+
+Team Name: CodeFellasVI
+
+Institute Code (AISHE): C-33681
+
+Institute Name: Thadomal Shahani Engineering College
 
 ## Project Overview
 In 2021, 77% of India's prison population consisted of undertrial prisoners (UTPs). These individuals face significant challenges in accessing legal resources, education, and rehabilitation programs. Our project aims to bridge this gap by providing a comprehensive platform that connects UTPs with legal services, educational resources, and support systems, empowering them to navigate their legal journeys more effectively.
